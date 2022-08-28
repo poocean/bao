@@ -19,7 +19,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-02-13",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "宝要吃好喝好，天天开心。爱你，我的宝！",
+"note_ch": "",
 # 金句英文
-"note_en": "The natural and unrestrained appearance comes from the heart."
+"note_en": ""
 }
